@@ -1,0 +1,13 @@
+{
+  "body": {
+    "content": "",
+    "file": false,
+    "fileSize": false
+  },
+  "headers": {
+    "authorization": "Basic bWFjYWxlc3RlcjpzY290cw=="
+  },
+  "method": "DELETE",
+  "title": "New HTTP Request",
+  "url": "127.0.0.1:5000/todo/2"
+}
